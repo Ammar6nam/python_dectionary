@@ -1,0 +1,11 @@
+a=['a',2,'c','d']
+print(a[0])
+dict={
+    "firstName":"Ammar"
+    "lastName":"Nammour"
+    "Age":{
+        "day":07
+        "month":07
+        "year":1991
+    }
+}
